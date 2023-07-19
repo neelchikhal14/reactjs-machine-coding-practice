@@ -1,0 +1,11 @@
+.parent-container {
+  width: 70vw;
+  margin: 100px auto;
+  border: 1.5px solid grey;
+  border-radius: 5px;
+}
+
+.title {
+  text-align: center;
+  font-size: 3rem;
+}

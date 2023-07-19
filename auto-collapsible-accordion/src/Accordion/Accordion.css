@@ -1,0 +1,28 @@
+.question-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 1.2rem;
+  padding-right: 1.2rem;
+}
+.question {
+  height: 1.5rem;
+  font-size: 2.8rem;
+
+  font-weight: 700;
+  cursor: pointer;
+}
+.answer {
+  font-size: 1.5rem;
+  padding-left: 1.2rem;
+  font-weight: 500;
+}
+
+.hover-text,
+.chevron-close {
+  color: #606d79;
+}
+.active-text,
+.chevron-open {
+  color: #04043a;
+}
