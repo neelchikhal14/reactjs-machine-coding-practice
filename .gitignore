@@ -21,3 +21,27 @@ auto-collapsible-accordion/.env.production.local
 auto-collapsible-accordion/npm-debug.log*
 auto-collapsible-accordion/yarn-debug.log*
 auto-collapsible-accordion/yarn-error.log*
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+analog-clock/node_modules
+analog-clock/.pnp
+analog-clock/.pnp.js
+
+# testing
+analog-clock/coverage
+
+# production
+analog-clock/build
+
+# misc
+analog-clock/.DS_Store
+analog-clock/.env.local
+analog-clock/.env.development.local
+analog-clock/.env.test.local
+analog-clock/.env.production.local
+
+analog-clock/npm-debug.log*
+analog-clock/yarn-debug.log*
+analog-clock/yarn-error.log*
